@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:hashgraph/hethers.js.git"
+    "url": "git@github.com:elfeeus/hethers.js.git"
   },
   "common": {},
   "scripts": {
